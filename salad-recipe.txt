@@ -1,0 +1,7 @@
+Ingredients: 
+ - vegitables
+
+ Directions:
+  1. Wash them.
+  2. Cut them.
+  3. Mix them.
